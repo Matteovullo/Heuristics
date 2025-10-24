@@ -1,0 +1,189 @@
+--- Processing instance: network_160.txt ---
+Run 1: Best=34.68, Iter=105, Eval=5415, Time=0.0728s
+Run 2: Best=34.68, Iter=121, Eval=6235, Time=0.0625s
+Run 3: Best=34.68, Iter=568, Eval=28876, Time=0.2778s
+Run 4: Best=34.68, Iter=160, Eval=8235, Time=0.1377s
+Run 5: Best=34.68, Iter=47, Eval=2457, Time=0.0473s
+Run 6: Best=34.68, Iter=200, Eval=10256, Time=0.1120s
+Run 7: Best=34.68, Iter=228, Eval=11682, Time=0.1197s
+Run 8: Best=34.68, Iter=296, Eval=15108, Time=0.1443s
+Run 9: Best=34.68, Iter=200, Eval=10249, Time=0.1984s
+Run 10: Best=34.68, Iter=286, Eval=14624, Time=0.1467s
+
+Final statistics for network_160.txt:
+Best Flow (TS): 34.68 (Optimal: 34.68)
+Mean Flow (TS): 34.68 ± 0.00
+Avg Iterations: 221
+Avg Evaluations: 11314
+Avg Time: 0.1319s
+
+--- Processing instance: network_500.txt ---
+Run 1: Best=107.98, Iter=900, Eval=54812, Time=1.2763s
+Run 2: Best=107.98, Iter=787, Eval=47986, Time=0.6682s
+Run 3: Best=107.98, Iter=865, Eval=52694, Time=0.7461s
+Run 4: Best=107.98, Iter=400, Eval=24489, Time=0.3451s
+Run 5: Best=107.98, Iter=600, Eval=36670, Time=0.5042s
+Run 6: Best=107.98, Iter=895, Eval=54555, Time=0.7429s
+Run 7: Best=107.98, Iter=1300, Eval=78899, Time=1.0829s
+Run 8: Best=107.98, Iter=800, Eval=48810, Time=0.6608s
+Run 9: Best=107.98, Iter=900, Eval=54895, Time=0.8448s
+Run 10: Best=107.98, Iter=1000, Eval=60881, Time=1.4324s
+
+Final statistics for network_500.txt:
+Best Flow (TS): 107.98 (Optimal: 107.98)
+Mean Flow (TS): 107.98 ± 0.00
+Avg Iterations: 845
+Avg Evaluations: 51469
+Avg Time: 0.8304s
+
+--- Processing instance: network_960.txt ---
+Run 1: Best=117.74, Iter=1300, Eval=1222711, Time=26.3864s
+Run 2: Best=117.74, Iter=1000, Eval=1223143, Time=27.2759s
+Run 3: Best=117.74, Iter=1500, Eval=1222939, Time=27.5337s
+Run 4: Best=117.74, Iter=1500, Eval=1223048, Time=27.8052s
+Run 5: Best=117.74, Iter=1700, Eval=1220517, Time=27.1873s
+Run 6: Best=117.74, Iter=800, Eval=1223191, Time=26.7976s
+Run 7: Best=117.74, Iter=800, Eval=1222815, Time=26.7729s
+Run 8: Best=117.74, Iter=1200, Eval=1223113, Time=26.8196s
+Run 9: Best=117.74, Iter=1400, Eval=1223037, Time=26.9705s
+Run 10: Best=117.74, Iter=1600, Eval=1222621, Time=27.2103s
+
+Final statistics for network_960.txt:
+Best Flow (TS): 117.74 (Optimal: 117.74)
+Mean Flow (TS): 117.74 ± 0.00
+Avg Iterations: 1280
+Avg Evaluations: 1222714
+Avg Time: 27.0759s
+
+--- Processing instance: network_1440.txt ---
+Run 1: Best=134.00, Iter=2935, Eval=178609, Time=5.8021s
+Run 2: Best=134.00, Iter=2500, Eval=152289, Time=4.7895s
+Run 3: Best=134.00, Iter=1900, Eval=115910, Time=3.7268s
+Run 4: Best=134.00, Iter=1776, Eval=108394, Time=2.9730s
+Run 5: Best=134.00, Iter=2180, Eval=132919, Time=3.8279s
+Run 6: Best=134.00, Iter=1800, Eval=109872, Time=3.5531s
+Run 7: Best=134.00, Iter=2000, Eval=121928, Time=3.7934s
+Run 8: Best=134.00, Iter=1595, Eval=97361, Time=2.7503s
+Run 9: Best=134.00, Iter=1895, Eval=115576, Time=3.8509s
+Run 10: Best=134.00, Iter=1900, Eval=115917, Time=3.3290s
+
+Final statistics for network_1440.txt:
+Best Flow (TS): 134.00 (Optimal: 134.00)
+Mean Flow (TS): 134.00 ± 0.00
+Avg Iterations: 2048
+Avg Evaluations: 124878
+Avg Time: 3.8396s
+
+--- Processing instance: network_2880.txt ---
+Run 1: Best=341.00, Iter=5200, Eval=316708, Time=18.5766s
+Run 2: Best=341.00, Iter=5400, Eval=328769, Time=19.3206s
+Run 3: Best=341.00, Iter=5000, Eval=304521, Time=18.9680s
+Run 4: Best=341.00, Iter=4500, Eval=274324, Time=16.1127s
+Run 5: Best=341.00, Iter=5500, Eval=334847, Time=20.0395s
+Run 6: Best=341.00, Iter=4000, Eval=243930, Time=14.4861s
+Run 7: Best=341.00, Iter=4400, Eval=268174, Time=15.7587s
+Run 8: Best=341.00, Iter=5748, Eval=349864, Time=21.0310s
+Run 9: Best=341.00, Iter=5200, Eval=316683, Time=18.5242s
+Run 10: Best=341.00, Iter=3200, Eval=195308, Time=11.8980s
+
+Final statistics for network_2880.txt:
+Best Flow (TS): 341.00 (Optimal: 341.00)
+Mean Flow (TS): 341.00 ± 0.00
+Avg Iterations: 4815
+Avg Evaluations: 293313
+Avg Time: 17.4715s
+
+--- Processing instance: network_4320.txt ---
+Run 1: Best=555.00, Iter=10000, Eval=609051, Time=74.9941s
+Run 2: Best=555.00, Iter=8600, Eval=524422, Time=64.2237s
+Run 3: Best=555.00, Iter=8300, Eval=506020, Time=62.6141s
+Run 4: Best=555.00, Iter=8600, Eval=524171, Time=64.5601s
+Run 5: Best=555.00, Iter=9000, Eval=548632, Time=67.8559s
+Run 6: Best=555.00, Iter=10300, Eval=627032, Time=76.9767s
+Run 7: Best=555.00, Iter=9600, Eval=584819, Time=70.9294s
+Run 8: Best=555.00, Iter=9500, Eval=578715, Time=70.5759s
+Run 9: Best=555.00, Iter=8900, Eval=542424, Time=66.3054s
+Run 10: Best=555.00, Iter=8400, Eval=512134, Time=62.8975s
+
+Final statistics for network_4320.txt:
+Best Flow (TS): 555.00 (Optimal: 555.00)
+Mean Flow (TS): 555.00 ± 0.00
+Avg Iterations: 9120
+Avg Evaluations: 555742
+Avg Time: 68.1933s
+
+--- Processing instance: network_5760.txt ---
+Run 1: Best=1203.00, Iter=19500, Eval=1188043, Time=253.3308s
+Run 2: Best=1201.48, Iter=19900, Eval=1218136, Time=258.9638s
+Run 3: Best=1203.00, Iter=18700, Eval=1139699, Time=242.2180s
+Run 4: Best=1203.00, Iter=19700, Eval=1199964, Time=254.9513s
+Run 5: Best=1198.59, Iter=19900, Eval=1218185, Time=257.9333s
+Run 6: Best=1203.00, Iter=19300, Eval=1175909, Time=248.7854s
+Run 7: Best=1203.00, Iter=18800, Eval=1145514, Time=241.7998s
+Run 8: Best=1203.00, Iter=18800, Eval=1145542, Time=241.4348s
+Run 9: Best=1198.99, Iter=19900, Eval=1218341, Time=256.9916s
+Run 10: Best=1203.00, Iter=19000, Eval=1157669, Time=243.8305s
+
+Final statistics for network_5760.txt:
+Best Flow (TS): 1203.00 (Optimal: 1203.00)
+Mean Flow (TS): 1202.01 ± 1.67
+Avg Iterations: 19350
+Avg Evaluations: 1180700
+Avg Time: 250.0239s
+
+--- Processing instance: network_7200.txt ---
+Run 1: Best=2107.58, Iter=19931, Eval=1221600, Time=530.5662s
+Run 2: Best=2136.83, Iter=19900, Eval=1221412, Time=531.6759s
+Run 3: Best=2158.56, Iter=19917, Eval=1221424, Time=532.5444s
+Run 4: Best=2149.19, Iter=19900, Eval=1221637, Time=534.8906s
+Run 5: Best=2191.19, Iter=19994, Eval=1221683, Time=535.5662s
+Run 6: Best=2237.06, Iter=19916, Eval=1221569, Time=532.4622s
+Run 7: Best=2113.68, Iter=19900, Eval=1221461, Time=534.7596s
+Run 8: Best=2206.69, Iter=19959, Eval=1221608, Time=533.4759s
+Run 9: Best=2162.48, Iter=19975, Eval=1221504, Time=535.3749s
+Run 10: Best=2117.33, Iter=19914, Eval=1221659, Time=535.9228s
+
+Final statistics for network_7200.txt:
+Best Flow (TS): 2237.06 (Optimal: 2502.00)
+Mean Flow (TS): 2158.06 ± 40.53
+Avg Iterations: 19931
+Avg Evaluations: 1221556
+Avg Time: 533.7239s
+
+--- Processing instance: network_11520.txt ---
+Run 1: Best=1243.50, Iter=19900, Eval=1218133, Time=255.7534s
+Run 2: Best=1244.00, Iter=18800, Eval=1145671, Time=239.7104s
+Run 3: Best=1244.00, Iter=19100, Eval=1163727, Time=245.3733s
+Run 4: Best=1209.41, Iter=19900, Eval=1217936, Time=259.6307s
+Run 5: Best=1233.68, Iter=19900, Eval=1217989, Time=258.0291s
+Run 6: Best=1244.00, Iter=19800, Eval=1206243, Time=255.4319s
+Run 7: Best=1243.42, Iter=19900, Eval=1218190, Time=258.3078s
+Run 8: Best=1244.00, Iter=18000, Eval=1096680, Time=231.4982s
+Run 9: Best=1244.00, Iter=18200, Eval=1108706, Time=235.1513s
+Run 10: Best=1244.00, Iter=19200, Eval=1169824, Time=245.3374s
+
+Final statistics for network_11520.txt:
+Best Flow (TS): 1244.00 (Optimal: 1244.00)
+Mean Flow (TS): 1239.40 ± 10.45
+Avg Iterations: 19270
+Avg Evaluations: 1176310
+Avg Time: 248.4224s
+
+--- Processing instance: network_23040.txt ---
+Run 1: Best=1923.83, Iter=19966, Eval=1221547, Time=541.8174s
+Run 2: Best=1965.77, Iter=19900, Eval=1221600, Time=536.7369s
+Run 3: Best=1932.80, Iter=19900, Eval=1221612, Time=534.8897s
+Run 4: Best=1900.67, Iter=19932, Eval=1221543, Time=532.5768s
+Run 5: Best=1931.26, Iter=19973, Eval=1221501, Time=531.5585s
+Run 6: Best=1905.96, Iter=19934, Eval=1221601, Time=532.3529s
+Run 7: Best=1969.96, Iter=19900, Eval=1221482, Time=533.0014s
+Run 8: Best=1977.60, Iter=19900, Eval=1221662, Time=531.0095s
+Run 9: Best=1899.13, Iter=19996, Eval=1221620, Time=531.1565s
+Run 10: Best=1972.04, Iter=19900, Eval=1221756, Time=533.9232s
+
+Final statistics for network_23040.txt:
+Best Flow (TS): 1977.60 (Optimal: 2223.00)
+Mean Flow (TS): 1937.90 ± 29.54
+Avg Iterations: 19930
+Avg Evaluations: 1221592
+Avg Time: 533.9023
